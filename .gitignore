@@ -1,0 +1,8 @@
+*.pdb
+*.xml
+*.xsd
+AndroidSideloader.csproj.user
+
+.vs/
+bin/
+packages/
